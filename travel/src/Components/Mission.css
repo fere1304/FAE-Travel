@@ -18,6 +18,10 @@
 }
 
 .carousel-container {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgb(145, 214, 172);;
+  padding: 1rem;
   max-width: 600px;
   margin-top: 5rem;
 }

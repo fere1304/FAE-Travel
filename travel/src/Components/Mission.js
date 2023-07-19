@@ -30,6 +30,31 @@ const imageData = [
     alt: "Bali",
     url: "https://www.traveloffpath.com/wp-content/uploads/2022/06/traveler-Bali.jpg",
   },
+  {
+    label: "Alberta",
+    alt: "Alberta2",
+    url: "https://www.albertacentennial.ca/wp-content/uploads/2017/11/tourist-attractions-in-Alberta.jpg",
+  },
+  {
+    label: "Thassos",
+    alt: "Thassos2",
+    url: "https://www.greeka.com/photos/eastern-aegean/thassos/sightseeing/hero/thassos-sightseeing-1280.jpg",
+  },
+  {
+    label: "Roma",
+    alt: "Roma2",
+    url: "https://content.r9cdn.net/rimg/dimg/7f/2e/d82165ea-city-25465-16e7e859ccc.jpg?width=1366&height=768&xhint=1183&yhint=1022&crop=true",
+  },
+  {
+    label: "Hurghada",
+    alt: "Hurghada2",
+    url: "https://thumbs.dreamstime.com/b/beach-red-sea-egyptian-hurghada-beach-red-sea-egyptian-hurghada-palm-trees-sand-red-sea-beautiful-summer-124563726.jpg",
+  },
+  {
+    label: "Bali",
+    alt: "Bali2",
+    url: "https://whereismai.com/wp-content/uploads/2023/02/IMG_0057-scaled-e1677209214551.jpeg",
+  },
 ];
 
 const renderSlides = imageData.map((image) => (
